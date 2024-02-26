@@ -1,0 +1,15 @@
+Access modifiers: to secure class and class properties
+================
+
+private: class-level scope
+
+default: package-level scope
+
+protected: inherited-level scope
+
+public: Universal-level scope 
+
+About 'Object' class:
+====================
+
+-> it is a root/base class of all the java classes.
